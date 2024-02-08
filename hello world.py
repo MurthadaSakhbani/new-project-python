@@ -1,2 +1,2 @@
 bani = "hello world bani!"
-print(bani)
+print("katakan " + bani)
